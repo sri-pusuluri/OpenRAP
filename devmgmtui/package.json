@@ -7,7 +7,7 @@
     "axios": "^0.17.1",
     "draft-js": "^0.10.5",
     "draftjs-to-html": "^0.8.2",
-    "immutable": "^3.8.2",
+    "immutable": "^4.3.9",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-draft-wysiwyg": "^1.12.5",
